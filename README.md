@@ -16,7 +16,7 @@
 `Python` `Java` `Django` `Flask` `Node.js`
 
 **Embedded AI & Hardware**  
-`NVIDIA Jetson` `Edge Computing` `Computer Vision` `Arduino`
+`NVIDIA Jetson` `STM32` `Edge Computing` `Computer Vision`
 
 **Systems & Tools**  
 `Linux` `Git` `MySQL` `Algorithm Design` `Docker`

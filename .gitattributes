@@ -1,0 +1,13 @@
+# Override language statistics to highlight Python expertise
+*.py linguist-language=Python
+*.md linguist-documentation
+*.txt linguist-documentation
+
+# Highlight AI/ML focus
+*.ipynb linguist-language=Python
+*.py linguist-detectable=true
+
+# Suppress non-core languages for AI Developer profile
+*.c linguist-vendored=true
+*.cpp linguist-vendored=true
+*.h linguist-vendored=true 
