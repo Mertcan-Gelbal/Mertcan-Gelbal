@@ -30,6 +30,7 @@
 
 ## 📊 AI Performance Metrics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mertcan-gelbal&show_icons=true&theme=minimal&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mertcan-gelbal&layout=compact&theme=minimal&hide_border=true&hide=c,assembly,makefile&langs_count=6)
 
 ## 💼 Professional Collaboration
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mertcangelbal)
