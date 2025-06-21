@@ -13,10 +13,13 @@
 `Python` `TensorFlow` `OpenCV` `Pandas` `Data Science`
 
 **Software Development**  
-`Java` `C` `Django` `Flask` `Node.js`
+`Python` `Java` `Django` `Flask` `Node.js`
+
+**Embedded AI & Hardware**  
+`NVIDIA Jetson` `Edge Computing` `Computer Vision` `Arduino`
 
 **Systems & Tools**  
-`Linux` `Git` `MySQL` `Arduino` `Algorithm Design`
+`Linux` `Git` `MySQL` `Algorithm Design` `Docker`
 
 ## 📊 Research & Development
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mertcan-gelbal&show_icons=true&theme=minimal&hide_border=true&count_private=true)
