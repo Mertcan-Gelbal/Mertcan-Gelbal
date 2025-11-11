@@ -6,7 +6,7 @@ Software Engineer • AI/ML Engineer • Edge Computing
     <img alt="LinkedIn" src="https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f517.svg" width="28" height="28">
   </a>
   <a href="mailto:gelbalmertcan@gmail.com">
-    <img alt="Email" src="https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/2709-fe0f.svg" width="28" height="28">
+    <img alt="Email" title="gelbalmertcan@gmail.com" src="https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f4e7.svg" width="28" height="28">
   </a>
   <a href="https://github.com/Mertcan-Gelbal/mertcangelbal.com">
     <img alt="Website repo" src="https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f310.svg" width="28" height="28">
