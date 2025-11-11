@@ -1,36 +1,33 @@
 ### Mertcan Gelbal  
 Software Engineer • AI/ML Engineer • Edge Computing
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mertcangelbal-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mertcangelbal)
-[![Website](https://img.shields.io/badge/Website-mertcangelbal.com-1f6feb?style=flat)](https://mertcangelbal.com)
-[![E‑posta](https://img.shields.io/badge/Email-gelbalmertcan%40gmail.com-2f81f7?style=flat)](mailto:gelbalmertcan@gmail.com)
-![Odak Alanları](https://img.shields.io/badge/LLMs%20•%20Computer%20Vision%20•%20Edge%20Deployment-0d1117?style=flat&label=Focus&labelColor=30363d&color=0d1117)
+[🔗](https://www.linkedin.com/in/mertcangelbal) [✉️](mailto:gelbalmertcan@gmail.com) [🌐](https://github.com/Mertcan-Gelbal/mertcangelbal.com)
 
 ---
 
-### Hakkımda
-Bilgisayar Mühendisliği mezunuyum. Üretime alınabilir yapay zekâ ürünleri geliştiriyorum.  
-İlgi alanlarım: LLM’ler, bilgisayarlı görü, uçta (edge) dağıtım ve uçtan uca ML ürünleri.  
-Son dönemde; mobil TFLite çıkarımı, Jetson üzerinde LLM asistanı ve temiz API’larla veri hatları tasarlıyorum. Net mimariler, ölçülebilir deneyler ve edge‑first düşünce yapısı önceliğim.
+### About
+Computer Engineering graduate building production‑ready AI systems.  
+Interests: LLMs, Computer Vision, Edge deployment, end‑to‑end ML products.  
+Recently: mobile TFLite inference, LLM assistant on Jetson, clean data pipelines and APIs. Clear architectures, measurable experiments, edge‑first thinking.
 
 ---
 
-### Öne Çıkan Projeler
-- **Botanix — Bitki hastalığı tespiti (mobil çıkarım: TFLite/NNAPI)**  
-  Değer: çevrimdışı çalışır, düşük gecikme, sahada güvenilir teşhis.  
-  Repo: [Mertcan-Gelbal/Botanix](https://github.com/Mertcan-Gelbal/Botanix) — Ayrıntılı metrikler ve kanıtlayıcı içerikler repoda.
+### Featured Projects
+- **Botanix — Plant disease detection (mobile inference: TFLite/NNAPI)**  
+  Value: offline, low‑latency, reliable field diagnosis.  
+  Repo: [Mertcan-Gelbal/Botanix](https://github.com/Mertcan-Gelbal/Botanix) — Detailed metrics and evidence live in the repo.
 
-- **LeafGate / PlantLeaf‑HealthBase — Veri hazırlama + eğitim hattı (109+ sınıf)**  
-  Değer: yeniden üretilebilir veri/deney süreci, güçlü data‑centric pratikler.  
+- **LeafGate / PlantLeaf‑HealthBase — Data prep + training pipeline (109+ classes)**  
+  Value: reproducible data/experiments, strong data‑centric practices.  
   Repo: [Mertcan-Gelbal/PlantLeaf-HealthBase](https://github.com/Mertcan-Gelbal/PlantLeaf-HealthBase)
 
-- **Skin Cancer Detection (Ensemble) — Yığma TL, klinik değer odaklı**  
-  Değer: AUC/F1, kalibrasyon ve yorumlanabilirlik öncelikli tasarım.  
+- **Skin Cancer Detection (Ensemble) — Stacked TL, clinical value focus**  
+  Value: AUC/F1, calibration and interpretability first.  
   Repo: [Mertcan-Gelbal/skin-cancer-detection-ensemble](https://github.com/Mertcan-Gelbal/skin-cancer-detection-ensemble)
 
 ---
 
-### Teknoloji Yığını
+### Tech Stack
 
 Badges:  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -44,29 +41,28 @@ Badges:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-Mühendislik tarzı:
-- Temiz, açık mimariler; modüler tasarım
-- Deney odaklılık: ölçülebilir metrikler, tekrarlanabilir eğitim/çıkarım
-- Edge‑first yaklaşım: gecikme, bellek, enerji kısıtları öncelikli
-- API’ler ve mikroservislerle uçtan uca ürün geliştirme
+Engineering style:
+- Clean, explicit architectures; modular over monolith
+- Experiment‑driven: measurable metrics; reproducible training/inference
+- Edge‑first constraints: latency, memory, energy
+- End‑to‑end product mindset with APIs and microservices
 
 ---
 
-### Mühendislik İlkeleri
-- “Önce çalıştır, sonra hızlandır.”
-- Modüler > monolit
-- Sadece doğruluk değil: AUC, F1, gecikme, RAM/VRAM, kalibrasyon
+### Engineering Principles
+- “Make it work, then make it fast.”
+- Modular > monolith
+- Accuracy is not enough: AUC, F1, latency, RAM/VRAM, calibration
 
 ---
 
-### Daha Fazla
+### More
 - Repositories: [github.com/Mertcan-Gelbal](https://github.com/Mertcan-Gelbal)
-- LinkedIn: [linkedin.com/in/mertcangelbal](https://www.linkedin.com/in/mertcangelbal)
-- Blog/Notlar: yakında
-- İletişim: gelbalmertcan@gmail.com
+- Blog/Notes: coming soon
+- Contact: gelbalmertcan@gmail.com
 
 <details>
-  <summary>İsteğe bağlı: GitHub istatistikleri</summary>
+  <summary>Optional: GitHub stats</summary>
 
   <img src="https://github-readme-stats.vercel.app/api?username=Mertcan-Gelbal&show_icons=true&theme=transparent" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mertcan-Gelbal&layout=compact&theme=transparent" alt="Top Languages" />
