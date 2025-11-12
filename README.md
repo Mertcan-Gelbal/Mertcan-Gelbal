@@ -22,7 +22,7 @@ I design lean, reliable ML systems—from data to deployment—that solve concre
 ---
 
 ### Product
-#### Botanix - Plant Disease
+#### Botanix - Plant Disease Detection for Mobile App
 on‑device, mobile inference (TFLite/NNAPI), offline, low‑latency, field‑ready, reproducible pipeline, metrics in repo
 
 ---
