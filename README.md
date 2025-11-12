@@ -16,15 +16,20 @@ Software Engineer • AI/ML Engineer • Edge Computing
 ---
 
 ### About
-I’m a Computer Engineering graduate focused on turning AI into real, shipped products.  
-I use modern ML — from LLMs to Computer Vision — to solve practical problems end‑to‑end: clean data pipelines, solid training, and efficient inference where it matters (often on‑device). I care about simple architectures, measurable experiments, reliability, and deploying fast to learn fast. In short: I use AI to search for effective solutions to real‑world problems, not just to build models.
+Computer Engineering graduate building production AI that ships.  
+I design lean, reliable ML systems—from data to deployment—that solve concrete problems. LLMs and Computer Vision when they help; on‑device inference when it matters. Simple architectures, measurable experiments, fast iteration, and accountability through clear metrics.
 
 ---
 
 ### Product
-- **Botanix — Plant disease detection (mobile inference: TFLite/NNAPI)**  
-  Offline, low‑latency, field‑ready diagnosis. Evidence and metrics live in the repo:  
-  [Mertcan-Gelbal/Botanix](https://github.com/Mertcan-Gelbal/Botanix)
+#### Plant
+- on‑device
+- mobile inference (TFLite/NNAPI)
+- offline
+- low‑latency
+- field‑ready
+- reproducible pipeline
+- metrics in repo
 
 ---
 
