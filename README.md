@@ -21,14 +21,26 @@ I use modern ML — from LLMs to Computer Vision — to solve practical problems
 
 ---
 
-### Featured Product
+### Geliştirdiğim Ürün
 - **Botanix — Plant disease detection (mobile inference: TFLite/NNAPI)**  
   Offline, low‑latency, field‑ready diagnosis. Evidence and metrics live in the repo:  
   [Mertcan-Gelbal/Botanix](https://github.com/Mertcan-Gelbal/Botanix)
 
 ---
 
-Tools: Python · PyTorch · TensorFlow · ONNX · TFLite · OpenCV · FastAPI · Docker · NVIDIA Jetson · React Native
+### Tools
+
+Badges:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
+![TFLite](https://img.shields.io/badge/TFLite-1C3C3C?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ---
 
