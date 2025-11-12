@@ -21,7 +21,7 @@ I use modern ML — from LLMs to Computer Vision — to solve practical problems
 
 ---
 
-### Geliştirdiğim Ürün
+### Product
 - **Botanix — Plant disease detection (mobile inference: TFLite/NNAPI)**  
   Offline, low‑latency, field‑ready diagnosis. Evidence and metrics live in the repo:  
   [Mertcan-Gelbal/Botanix](https://github.com/Mertcan-Gelbal/Botanix)
