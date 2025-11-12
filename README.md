@@ -23,13 +23,7 @@ I design lean, reliable ML systems—from data to deployment—that solve concre
 
 ### Product
 #### Plant
-- on‑device
-- mobile inference (TFLite/NNAPI)
-- offline
-- low‑latency
-- field‑ready
-- reproducible pipeline
-- metrics in repo
+on‑device, mobile inference (TFLite/NNAPI), offline, low‑latency, field‑ready, reproducible pipeline, metrics in repo
 
 ---
 
