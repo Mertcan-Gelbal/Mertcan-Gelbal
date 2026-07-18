@@ -10,19 +10,19 @@ Computer Engineering graduate (Marmara University) with hands-on experience in m
 
 ## Featured Projects
 
-### [Botanix — On-Device Plant Disease Detection (Mobile)](https://github.com/Mertcan-Gelbal/Bitki-Hastaliklarinin-Tespitine-Yonelik-Derin-Ogrenme-Tabanli-Mobil-Uygulama-Gelistirilmesi)
+### [Botanix — On-Device Plant Disease Detection (Mobile)](https://github.com/Mertcan-Gelbal/botanix-mobile-ai)
 Farmers need field diagnosis without connectivity; this thesis project ships a MobileNetV2 classifier fully on-device in a React Native app.
 **Contribution:** end-to-end mobile inference pipeline (image capture → preprocessing → TFLite inference → Turkish-localized results) with offline operation.
 **Tech:** React Native 0.79 / Expo 53, TensorFlow Lite (`react-native-fast-tflite`), ONNX Runtime, TypeScript.
 **Evidence-backed capability:** bundles a 38-class PlantVillage TFLite model (upstream eval accuracy 78.6%) and runs it offline on device.
 
-### [Botanix Model Benchmark (Notebooks)](https://github.com/Mertcan-Gelbal/botanix-notebooks)
+### [Botanix Model Benchmark (Notebooks)](https://github.com/Mertcan-Gelbal/botanix-model-benchmark)
 Which architecture actually wins on large-scale leaf-disease classification?
 **Contribution:** a 7-architecture comparison (CNN baseline, ViT-B/16, Swin-B, self-supervised segmentation-head variants, from-scratch CNNs with a PlantCLEF pre-training plan) on a 105-class dataset I published on Kaggle.
 **Tech:** PyTorch, timm, scikit-learn, Jupyter.
 **Evidence-backed capability:** fully specified training/eval protocol (augmentation, weighted CE, cosine LR) with a documented ~374K-image dataset split.
 
-### [Agricultural RAG & BERT Classification](https://github.com/Mertcan-Gelbal/LLM-Chatbot)
+### [Agricultural RAG & BERT Classification](https://github.com/Mertcan-Gelbal/agricultural-rag-edge-ai)
 Domain question-answering for agriculture, combining text classification with retrieval-augmented generation.
 **Contribution:** trained and compared BERT-family classifiers on a 6-category agricultural dataset; built a sentence-transformers RAG pipeline and Streamlit/API front ends, with Jetson deployment scripts.
 **Tech:** PyTorch, Hugging Face Transformers, sentence-transformers, Streamlit, NVIDIA Jetson (JetPack 6.2).
@@ -34,7 +34,7 @@ A freshly flashed Jetson takes hours of manual setup; this toolkit does it in on
 **Tech:** Bash, JetPack 5.x/6.x, Docker, CUDA/cuDNN tooling.
 **Evidence-backed capability:** verify-only mode audits CUDA, PyTorch, OpenCV build flags, and camera pipelines on the device.
 
-### [Health Assistant — LLM Evaluation Prototype](https://github.com/Mertcan-Gelbal/health-assistant-chatbot)
+### [Health Assistant — LLM Evaluation Prototype](https://github.com/Mertcan-Gelbal/health-assistant-llm-evaluation)
 How do Gemini and GPT compare on Turkish health-assistant intents?
 **Contribution:** evaluation-oriented Streamlit app comparing two LLM APIs on an 8-intent, 1,250-sample synthetic dataset, with a keyless demo mode and explicit no-diagnosis policy.
 **Tech:** Python, Streamlit, Google Gemini API, OpenAI API, scikit-learn.
